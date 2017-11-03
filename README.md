@@ -1,4 +1,3 @@
-### articles-to-read
 List of my unread resources
 ===
 - [ ] [Email Template](https://github.com/SparkPost/heml)
