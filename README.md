@@ -6,4 +6,5 @@ List of my unread resources
 - [ ] [Tech Lists](https://github.com/sindresorhus/awesome)
 - [ ] [NodeJS](https://github.com/sindresorhus/awesome-nodejs)
 - [ ] [CardingAweList](https://github.com/richardneililagan/awesome/blob/master/read/README.md)
+- [ ] [CriticalCssSplitter](https://www.npmjs.com/package/critical)
  
