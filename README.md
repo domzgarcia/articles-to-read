@@ -8,4 +8,6 @@ List of my unread resources
 - [ ] [CardingAweList](https://github.com/richardneililagan/awesome/blob/master/read/README.md)
 - [ ] [CriticalCssSplitter](https://www.npmjs.com/package/critical)
 - [x] [es6-classes](http://2ality.com/2015/02/es6-classes-final.html)
+- [ ] [idiomatic.js](https://github.com/rwaldron/idiomatic.js)
+- [x] [jstherightway](http://jstherightway.org/#getting-started)
  
